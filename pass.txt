@@ -1,0 +1,5 @@
+# add a password on each new line... and delete the password when fineshed
+password123
+feguysjs
+uCrusjkfnsj2134
+21345
